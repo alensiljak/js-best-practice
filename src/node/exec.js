@@ -1,6 +1,9 @@
 /*
 	Runs a command in a shell and buffers the output.
 	Exec works on the command line.
+
+	For documentation see
+	http://nodejs.org/api/child_process.html
 */
 var exec = require('child_process').exec;
 

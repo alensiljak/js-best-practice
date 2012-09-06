@@ -1,6 +1,9 @@
 /*
 	Launches a new process with the given command, with command line arguments in args. 
 	If omitted, args defaults to an empty Array.
+
+	For documentation see
+	http://nodejs.org/api/child_process.html
 */	
 
 var spawn = require('child_process').spawn;

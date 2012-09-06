@@ -1,4 +1,5 @@
 /*
+	Runs a command in a shell and buffers the output.
 	Exec works on the command line.
 */
 var exec = require('child_process').exec;

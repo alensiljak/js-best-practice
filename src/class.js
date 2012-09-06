@@ -34,5 +34,5 @@ function CostCalculator() {
 }
 
 // another way to create a public method.
-TotalCalculation.prototype.anotherPublicMethod = function () {
+CostCalculator.prototype.anotherPublicMethod = function () {
 // console.log("public but can't access private. Can access public: " + this.publicVar);

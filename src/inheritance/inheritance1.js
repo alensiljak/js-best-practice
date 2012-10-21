@@ -16,3 +16,5 @@ var newObject = new Class2("blah");
 
 console.log(newObject.number);
 console.log(newObject.text);
+console.log(newObject.toString());
+console.log(newObject.toString);

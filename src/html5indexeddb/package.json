@@ -1,0 +1,7 @@
+{
+	"name": "minimal-web-server",
+	"version": "1.0.0",
+	"dependencies" : {
+		"node-static" : "*"
+	}
+}

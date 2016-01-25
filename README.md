@@ -1,6 +1,5 @@
-js-best-practice
-================
+# js-best-practice
 
-Best practice for JavaScript. Refence.
+Best practices for JavaScript code. Used as a refence.
 
-Code can be run with Node.js.
+Code can be run with Node.js or in browser, depending on example.
